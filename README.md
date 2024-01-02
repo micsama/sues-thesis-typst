@@ -1,5 +1,8 @@
 # 上海工程技术大学学位论文Typst模板
 
+
+Fork from [MobtgZhang/sues-thesis-typst: 上海工程技术大学学位论文Typst模板](https://github.com/MobtgZhang/sues-thesis-typst)
+
 第一次接触Typst源于一次LaTeX社区推荐，突然发现一个非常好的项目，即Typst，这个项目是用Rust写的一个轻量级项目。
 相对于LaTeX，Typst较为轻量级、编译速度快，而且语法比较简单，具有用户友好的教程及文档，适合于文档开发的操作。搭配vscode typst lsp的监听修改自动编译的功能，可以即时预览编译出的pdf文件
 
